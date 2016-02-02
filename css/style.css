@@ -1,0 +1,44 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #4d4d4d;
+    font-weight: 300;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-muted {
+    color: #6F6F6F;
+    font-size: 32px;
+}
+
+
+
+.name-bigger {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 3px;
+    height: 135px;
+    width: 135px;
+    border-radius: 50%
+}
+
+.top-row {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.bottom-row {
+    margin-bottom: 5px;
+}
+
+hr {
+    display: block;
+    border-width: 3px;
+    border-color: #a6a6a6;
+}
